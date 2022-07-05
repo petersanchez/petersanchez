@@ -8,9 +8,9 @@ some repo's that [live here][noss].
 If you're interested, head to my [personal website][pscom] or check out what
 I'm [working on now][now].
 
-Fediverse: [@PeterSanchez@mastodon.social][mstdn]
+Fediverse: [@petersanchez@honk.petersanchez.com][mstdn]
 
-Twitter: [PeterSanchez][twitter]
+Twitter: [PeterSanchez][twitter] (not using much these days)
 
 
 [netlandish]: https://www.netlandish.com "Netlandish"
@@ -18,5 +18,5 @@ Twitter: [PeterSanchez][twitter]
 [noss]: https://code.netlandish.com/~netlandish "Netlandish Code"
 [pscom]: https://petersanchez.com "Peter Sanchez"
 [now]: https://petersanchez.com/now/ "Peter Sanchez Now"
-[mstdn]: https://mastodon.social/@PeterSanchez "@PeterSanchez on Mastodon"
+[mstdn]: https://honk.petersanchez.com/u/petersanchez "@petersanchez on Honk"
 [twitter]: https://twitter.com/PeterSanchez "Peter Sanchez Twitter"
